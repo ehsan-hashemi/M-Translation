@@ -109,19 +109,31 @@ body {
   }  
 
   .img1 {
-    width:100px;
-    height:100px;
+    width: 100px;
+    height: 100px;
     position: absolute;
     left: 170px;
     top: 15px;
     z-index: 2;
   }
-
+  
   .img2 {
-    width:100px;
-    height:100px;
+    width: 100px;
+    height: 100px;
     position: absolute;
     left: 800px;
     top: 15px;
     z-index: 2;
   }
+  
+  /* تنظیمات برای صفحه‌نمایش‌های کوچک */
+  @media (max-width: 768px) {
+    .img1 {
+      left: 20px; /* تغییر موقعیت برای موبایل */
+      top: 10px;
+    }
+    .img2 {
+      left: 120px; /* تغییر موقعیت برای موبایل */
+      top: 10px;
+    }
+  }  
