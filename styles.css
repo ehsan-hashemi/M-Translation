@@ -17,19 +17,16 @@ header {
 header h1 {
   margin: 0;
   font-size: 2em;
-  text-align: right;
 }
   
 header h2 {
   margin: 0;
   font-size: 1.2em;
   font-weight: normal;
-  text-align: right;
 }
   
 nav {
   margin-top: 10px;
-  text-align: right;
 }
   
 nav a {
@@ -37,7 +34,6 @@ nav a {
   text-decoration: none;
   margin: 0 10px;
   font-size: 1em;
-  text-align: right;
 }
   
 main {
@@ -46,25 +42,21 @@ main {
   padding: 20px;
   background-color: #fff;
   box-shadow: 0 0 10px rgba(0,0,0,0.1);
-  text-align: right;
 }
   
 .form-group {
   margin-bottom: 15px;
-  text-align: right;
 }
   
 textarea {
   width: 100%;
   font-size: 1em;
   padding: 10px;
-  text-align: right;
 }
   
 select, button {
   font-size: 1em;
   padding: 8px;
-  text-align: right;
 }
   
 button {
@@ -73,12 +65,10 @@ button {
   color: white;
   border: none;
   border-radius: 4px;
-  text-align: right;
 }
   
 button:hover {
   background-color: #0073e6;
-  text-align: right;
 }
   
 #result {
@@ -86,7 +76,6 @@ button:hover {
   background-color: #e6f7ff;
   padding: 15px;
   border-radius: 5px;
-  text-align: right;
 }
   
 /* سبک های مدال */
@@ -100,7 +89,6 @@ button:hover {
   height: 100%;
   overflow: auto; 
   background-color: rgba(0,0,0,0.4);
-  text-align: right;
 }
   
 .modal-content {
@@ -111,7 +99,6 @@ button:hover {
   width: 80%;
   max-width: 500px;
   border-radius: 5px;
-  text-align: right;
 }
   
 .close {
@@ -120,7 +107,6 @@ button:hover {
   font-size: 28px;
   font-weight: bold;
   cursor: pointer;
-  text-align: right;
 }  
 
 .img1 {
