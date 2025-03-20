@@ -3,8 +3,8 @@ body {
   background-color: #f7f7f7;
   margin: 0;
   padding: 0;
-  direction: rtl;
-  text-align: right;
+  direction: LTR;
+  text-align: left;
 }
   
 header {
