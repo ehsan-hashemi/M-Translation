@@ -70,7 +70,7 @@ document.getElementById('aboutLink').addEventListener('click', function(e) {
   // نمایش محتوای About در مدال
   modalBody.innerHTML = `
     <h2>About</h2>
-    <p>M Translation<br>Programming Group M<br>Version: 2.4<br>Site: <a href="https://ehsan-hashemi.github.io/M-Translation" target="_blank">M Programming Group</a><br>© All rights are reserved.</p>`;
+    <p>M Translation<br>Programming Group M<br>Version: 2.4<br>Site: <a href="https://ehsan-hashemi.github.io/M-Programming-Group" target="_blank">M Programming Group</a><br>© All rights are reserved.</p>`;
   modal.style.display = "block";
 });
 
