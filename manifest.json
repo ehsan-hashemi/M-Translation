@@ -1,0 +1,33 @@
+{
+  "name": "M Translation",
+  "short_name": "M Translation",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/icon-MT.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-MT.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "id": "M-Translation",
+  "description": "M Translation\nversion: 3.2.6",
+  "dir": "ltr",
+  "scope": "/",
+  "lang": "fa",
+  "orientation": "any",
+  "display_override": [
+    "browser",
+    "fullscreen",
+    "minimal-ui",
+    "standalone",
+    "window-controls-overlay"
+  ]
+}
