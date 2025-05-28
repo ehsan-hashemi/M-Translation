@@ -21,7 +21,7 @@
   "description": "M Translation\nversion: 3.2.6",
   "dir": "ltr",
   "scope": "/",
-  "lang": "fa",
+  "lang": "en",
   "orientation": "any",
   "display_override": [
     "browser",
